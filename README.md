@@ -1,4 +1,4 @@
-# ML-Project---Spaceship-Titanic
+# ML-Project Spaceship-Titanic
 
 Bienvenido al año 2912, donde se necesitan tus habilidades de ciencia de datos para resolver un misterio cósmico. Hemos recibido una transmisión desde cuatro años luz de distancia y las cosas no pintan bien.
 
